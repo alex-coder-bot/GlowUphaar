@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "sweet-001",
+      "name": "Artisanal Kaju Katli & Roasted Dry Fruit Box (400g)",
+      "brand": "Haldiram's Royale",
+      "category": "Gourmet Sweets",
+      "price_inr": 480,
+      "mrp_inr": 550,
+      "discount_pct": 12,
+      "active_ingredients": ["Cashews", "Silver Vark", "Cardamom"],
+      "dupe_for": "Bikanervala Premium Gift Box",
+      "vibe_tags": ["mithai", "sweets", "traditional", "family", "mom", "diwali treat"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Haldirams+Royale+Kaju+Katli+Gift+Box"
+    },
+    {
+      "id": "sweet-002",
+      "name": "Spiced Peri-Peri Roasted Foxnuts & Nut Trio",
+      "brand": "Farmley",
+      "category": "Festive Munchies",
+      "price_inr": 289,
+      "mrp_inr": 349,
+      "discount_pct": 17,
+      "active_ingredients": ["Lotus Seeds", "Roasted Almonds", "Peri-Peri Herbs"],
+      "dupe_for": "Organic India Gourmet Snack Mix",
+      "vibe_tags": ["healthy snacks", "makhana", "bestie", "college", "crunchy"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Farmley+Roasted+Makhana+Snack+Box"
+    },
+    {
+      "id": "decor-001",
+      "name": "Handmade Royal Brass Diya with Mogra Candle",
+      "brand": "Uphaar Crafts",
+      "category": "Festive Decor",
+      "price_inr": 249,
+      "mrp_inr": 499,
+      "discount_pct": 50,
+      "active_ingredients": ["Solid Brass", "Soy Wax", "Mogra Essential Oil"],
+      "dupe_for": "Forest Essentials Scented Diya Collection",
+      "vibe_tags": ["decor", "candle", "diya", "traditional", "pooja", "lighting"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Brass+Diya+Scented+Soy+Candle+Diwali+Gift"
+    },
+    {
+      "id": "acc-001",
+      "name": "Mulberry Silk Scrunchies & Gold Hair Pin Set",
+      "brand": "Satin Glow Co.",
+      "category": "Accessories",
+      "price_inr": 199,
+      "mrp_inr": 399,
+      "discount_pct": 50,
+      "active_ingredients": ["100% Mulberry Silk", "Gold Alloys"],
+      "dupe_for": "Slip Pure Silk Hair Accessories",
+      "vibe_tags": ["accessories", "hair", "gold", "sister", "aesthetic", "ootd"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Mulberry+Silk+Scrunchie+Set+Gold+Maroon"
+    },
+    {
+      "id": "serum-001",
+      "name": "Minimalist 10% Niacinamide Face Serum with Zinc",
+      "brand": "Minimalist",
+      "category": "Skincare",
+      "price_inr": 569,
+      "mrp_inr": 599,
+      "discount_pct": 5,
+      "active_ingredients": ["Niacinamide 10%", "Zinc PCA", "Hyaluronic Acid"],
+      "dupe_for": "The Ordinary Niacinamide 10%",
+      "vibe_tags": ["clear skin", "dewy", "glow", "skincare", "sister", "bestie"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Minimalist+10%25+Niacinamide+Face+Serum+India"
+    },
+    {
+      "id": "mist-001",
+      "name": "BodyLovin' Vanilla Vibes Fine Fragrance Mist",
+      "brand": "Plum",
+      "category": "Fragrance",
+      "price_inr": 420,
+      "mrp_inr": 525,
+      "discount_pct": 20,
+      "active_ingredients": ["Vanilla Pod Extract", "Aloe Vera Juice"],
+      "dupe_for": "Sol de Janeiro Brazilian Crush Cheirosa 71",
+      "vibe_tags": ["vanilla", "sweet perfume", "party", "fragrance", "sister", "friends"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Plum+BodyLovin+Vanilla+Vibes+Body+Mist"
+    },
+    {
+      "id": "lip-001",
+      "name": "Plum Candy Melts Vegan Tinted Lip Balm",
+      "brand": "Plum",
+      "category": "Skincare",
+      "price_inr": 235,
+      "mrp_inr": 295,
+      "discount_pct": 20,
+      "active_ingredients": ["Shea Butter", "Cocoa Butter", "Berry Extract"],
+      "dupe_for": "Laneige Lip Sleeping Mask",
+      "vibe_tags": ["lip tint", "cute", "pocket friendly", "bestie", "college"],
+      "affiliate_url": "https://www.google.com/search?q=buy+Plum+Candy+Melts+Vegan+Lip+Balm+Red+Velvet"
+    }
+  ]
+}

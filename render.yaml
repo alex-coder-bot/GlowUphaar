@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: glowuphaar-agent
+    env: python
+    region: singapore
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: GEMINI_API_KEY
+        sync: false
+
+  - type: cron
+    name: glowuphaar-deal-audit-worker
+    env: python
+    region: singapore
+    plan: starter
+    schedule: "0 */6 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python workflow_deal_checker.py
