@@ -67,6 +67,7 @@ You can commit and push this update to GitHub in 10 seconds:
 git add README.md
 git commit -m "docs: add local setup instructions"
 git push origin main
+
 ---
 
 ### Earning Potential & Business Model (How This Makes Money):
