@@ -30,7 +30,7 @@
 
 - **Live Demo:** https://glowuphaar.onrender.com
 - **GitHub Repository:** https://github.com/alex-coder-bot/GlowUphaar
-- **Demo Video:** [PASTE YOUR GOOGLE DRIVE LINK HERE]
+- **Demo Video:** https://drive.google.com/file/d/1Df2RNXzxUp0rY4yVQcd4cfY41KeyybA6/view?usp=sharing 
 
 - **Try it yourself right now:**
   1. Describe any person with their quirks, likes, or dislikes.
