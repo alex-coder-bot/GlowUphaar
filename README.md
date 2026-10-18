@@ -28,9 +28,7 @@
 
 ### What works today:
 
-* **Live Demo:** [PASTE YOUR RENDER URL HERE]
-* **GitHub Repository:** [PASTE YOUR GITHUB REPO URL HERE]
-* **Demo Video:** [PASTE YOUR LOOM / YOUTUBE LINK HERE]
+* **Live Demo:** [https://glowuphaar.onrender.com]
 
 * **Try it yourself right now:**
   1. Describe any person with their quirks, likes, or dislikes.
@@ -40,6 +38,35 @@
   5. Check out the luxury dupe comparisons in the second tab.
   6. Peek at live telemetry by adding `?admin=stats` to the URL.
 
+
+  ---
+
+### Run It Locally (Quick Start):
+
+1. **Clone & Setup:**
+   ```bash
+   git clone [https://github.com/alex-coder-bot/GlowUphaar.git](https://github.com/alex-coder-bot/GlowUphaar.git)
+   cd GlowUphaar
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+
+2. **Add Your Gemini API Key:**
+Create a .env file in the root folder:
+
+Code snippet
+GEMINI_API_KEY=your_gemini_api_key_here
+
+3.**Launch Mira:**
+
+Bash
+streamlit run app.py
+
+You can commit and push this update to GitHub in 10 seconds:
+```powershell
+git add README.md
+git commit -m "docs: add local setup instructions"
+git push origin main
 ---
 
 ### Earning Potential & Business Model (How This Makes Money):
