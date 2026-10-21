@@ -213,9 +213,10 @@ def dynamic_text_synthesis(recipient, budget, notes):
         card_msg = "A little box of sweetness, warmth, and relaxation to celebrate everything you do. Wishing you peace, health, and a very happy Diwali! 🌸"
     elif "Boyfriend" in recipient or "Husband" in recipient:
         card_msg = "To my favorite person: Celebrating you with warmth, depth, and festive magic. Thank you for making every single day brighter! ✨"
+    elif "Girlfriend" in recipient or "Wife" in recipient:
+        card_msg = "To the one who brings all the warmth and magic into my life: A little box handpicked with all the sweetness and love you deserve. Happy Diwali, my favorite! 🌸✨"
     else:
         card_msg = "Wishing you festive celebrations filled with rich warmth, golden light, and joyful indulgence. Happy Diwali! 🪔"
-
     return {
         "gift_narrative": card_msg,
         "items": items
@@ -285,6 +286,7 @@ if mode == "🎁 Build a Custom Hamper (Gifting)":
                 "My Sister 💖", 
                 "My Best Friend 👯‍♀️", 
                 "My Boyfriend / Husband 👔", 
+                "My Girlfriend/ Wife 👑,"
                 "My Mom 🌸", 
                 "My Dad / Brother 💼", 
                 "Colleagues / Team 🤝"
