@@ -286,7 +286,7 @@ if mode == "🎁 Build a Custom Hamper (Gifting)":
                 "My Sister 💖", 
                 "My Best Friend 👯‍♀️", 
                 "My Boyfriend / Husband 👔", 
-                "My Girlfriend/ Wife 👑,"
+                "My Girlfriend/ Wife 👑",
                 "My Mom 🌸", 
                 "My Dad / Brother 💼", 
                 "Colleagues / Team 🤝"
